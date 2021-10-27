@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635308485220,
+  "timestamp": 1635309125121,
   "index": "https://Netzah15.github.io/basePwa/index.html",
   "assetGroups": [
     {
@@ -56,7 +56,7 @@
     "https://Netzah15.github.io/basePwa/assets/icons/manifest.json": "c4e78a7016ba4611cff07729a7dfdba7f35d05a8",
     "https://Netzah15.github.io/basePwa/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
     "https://Netzah15.github.io/basePwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://Netzah15.github.io/basePwa/index.html": "c430b061e712cc0b1af85c82b701e5f4c878f6d7",
+    "https://Netzah15.github.io/basePwa/index.html": "3ce26c53843b753076f365eab8c7afefa8e967c7",
     "https://Netzah15.github.io/basePwa/main.0098a17c7d11dc60c3f8.js": "0776ae00ed789373c30d64c7e8891c9c7286c663",
     "https://Netzah15.github.io/basePwa/manifest.webmanifest": "5b11e35c68e709b7cac3f52993049cc430ce1626",
     "https://Netzah15.github.io/basePwa/polyfills.77a1993727a31fa030dd.js": "4cf661614a4ec3db0f1098456e80b8d00128d1d0",
