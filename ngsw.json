@@ -1,0 +1,85 @@
+{
+  "configVersion": 1,
+  "timestamp": 1635308485220,
+  "index": "https://Netzah15.github.io/basePwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Netzah15.github.io/basePwa/favicon.ico",
+        "https://Netzah15.github.io/basePwa/index.html",
+        "https://Netzah15.github.io/basePwa/main.0098a17c7d11dc60c3f8.js",
+        "https://Netzah15.github.io/basePwa/manifest.webmanifest",
+        "https://Netzah15.github.io/basePwa/polyfills.77a1993727a31fa030dd.js",
+        "https://Netzah15.github.io/basePwa/runtime.18821b64a88c577ecb6a.js",
+        "https://Netzah15.github.io/basePwa/styles.11cf6b3a7e166a1bde8d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Netzah15.github.io/basePwa/assets/icons/icon-128x128.png",
+        "https://Netzah15.github.io/basePwa/assets/icons/icon-144x144.png",
+        "https://Netzah15.github.io/basePwa/assets/icons/icon-152x152.png",
+        "https://Netzah15.github.io/basePwa/assets/icons/icon-192x192.png",
+        "https://Netzah15.github.io/basePwa/assets/icons/icon-384x384.png",
+        "https://Netzah15.github.io/basePwa/assets/icons/icon-512x512.png",
+        "https://Netzah15.github.io/basePwa/assets/icons/icon-72x72.png",
+        "https://Netzah15.github.io/basePwa/assets/icons/icon-96x96.png",
+        "https://Netzah15.github.io/basePwa/assets/icons/manifest.json",
+        "https://Netzah15.github.io/basePwa/assets/shipping.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://Netzah15.github.io/basePwa/assets/icons/icon-128x128.png": "e4aac201ce61078d07907ee884838a911040455e",
+    "https://Netzah15.github.io/basePwa/assets/icons/icon-144x144.png": "9ab84045bee0e617caa5458b39b64d14ce5553ea",
+    "https://Netzah15.github.io/basePwa/assets/icons/icon-152x152.png": "79ce9dff1ad627e62c174c504041e2e211d4b13f",
+    "https://Netzah15.github.io/basePwa/assets/icons/icon-192x192.png": "9a15d8c51aa5a584b130d2e117b929937418b84c",
+    "https://Netzah15.github.io/basePwa/assets/icons/icon-384x384.png": "f35404844532cc217797b57722e0969367cc712a",
+    "https://Netzah15.github.io/basePwa/assets/icons/icon-512x512.png": "9ec401b4047f085d7f56d473e12411916ea13bf0",
+    "https://Netzah15.github.io/basePwa/assets/icons/icon-72x72.png": "f3b8cefbcffd6c2cf4707a83b48812983fd317cc",
+    "https://Netzah15.github.io/basePwa/assets/icons/icon-96x96.png": "4355947ddd4d40db18e18fc492b49c7d0e9e762d",
+    "https://Netzah15.github.io/basePwa/assets/icons/manifest.json": "c4e78a7016ba4611cff07729a7dfdba7f35d05a8",
+    "https://Netzah15.github.io/basePwa/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
+    "https://Netzah15.github.io/basePwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://Netzah15.github.io/basePwa/index.html": "c430b061e712cc0b1af85c82b701e5f4c878f6d7",
+    "https://Netzah15.github.io/basePwa/main.0098a17c7d11dc60c3f8.js": "0776ae00ed789373c30d64c7e8891c9c7286c663",
+    "https://Netzah15.github.io/basePwa/manifest.webmanifest": "5b11e35c68e709b7cac3f52993049cc430ce1626",
+    "https://Netzah15.github.io/basePwa/polyfills.77a1993727a31fa030dd.js": "4cf661614a4ec3db0f1098456e80b8d00128d1d0",
+    "https://Netzah15.github.io/basePwa/runtime.18821b64a88c577ecb6a.js": "7e55b36d225118431e7c39e9bc0c06b3379216b2",
+    "https://Netzah15.github.io/basePwa/styles.11cf6b3a7e166a1bde8d.css": "afdfbd6fa0a454418a996df3f3117579c16d465e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
